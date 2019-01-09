@@ -1,0 +1,10 @@
+
+img{
+    max-width: 445px;
+    display: inline-block;
+    float: left;
+}
+
+.clearfix{
+    overflow: auto;
+}
