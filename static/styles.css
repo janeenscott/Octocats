@@ -28,15 +28,15 @@ ul{
 
 /*}*/
 
-.octocat>a::after{
-    content""
-    width: 0;
-  height: 0;
-  border-left: 20px solid transparent;
-  border-right: 20px solid transparent;
+/*.octocat>a::after{*/
+    /*content""*/
+    /*width: 0;*/
+  /*height: 0;*/
+  /*border-left: 20px solid transparent;*/
+  /*border-right: 20px solid transparent;*/
 
-  border-top: 20px solid #f00;
-}
+  /*border-top: 20px solid #f00;*/
+/*}*/
 
 /*.authors li{*/
     /*border: aqua solid 1px;*/
